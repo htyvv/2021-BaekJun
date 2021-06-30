@@ -1,0 +1,3 @@
+﻿  hw4.cpp
+C:\Users\허태영\source\repos\BaekJoon\자료구조_과제_4\hw4.cpp(86,20): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  자료구조_과제_4.vcxproj -> C:\Users\허태영\source\repos\BaekJoon\Debug\자료구조_과제4.exe

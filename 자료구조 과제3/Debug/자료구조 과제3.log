@@ -1,0 +1,9 @@
+﻿  hw3.cpp
+C:\Users\허태영\source\repos\BaekJoon\자료구조 과제3\hw3.cpp(112,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\허태영\source\repos\BaekJoon\자료구조 과제3\hw3.cpp(140,19): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\허태영\source\repos\BaekJoon\자료구조 과제3\hw3.cpp(148,19): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\허태영\source\repos\BaekJoon\자료구조 과제3\hw3.cpp(269,15): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\허태영\source\repos\BaekJoon\자료구조 과제3\hw3.cpp(270,36): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\허태영\source\repos\BaekJoon\자료구조 과제3\hw3.cpp(306,88): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\허태영\source\repos\BaekJoon\자료구조 과제3\hw3.cpp(381,45): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  자료구조 과제3.vcxproj -> C:\Users\허태영\source\repos\BaekJoon\Debug\자료구조_과제3.exe

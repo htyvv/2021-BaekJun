@@ -1,0 +1,3 @@
+﻿  2346.cpp
+C:\Users\허태영\source\repos\BaekJoon\2346\2346.cpp(35,23): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  2346.vcxproj -> C:\Users\허태영\source\repos\BaekJoon\Debug\2346.exe

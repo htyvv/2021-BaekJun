@@ -1,0 +1,4 @@
+﻿  9251.cpp
+C:\Users\허태영\source\repos\BaekJoon\9251\9251.cpp(12,20): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\허태영\source\repos\BaekJoon\9251\9251.cpp(14,21): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  9251.vcxproj -> C:\Users\허태영\source\repos\BaekJoon\Debug\9251.exe

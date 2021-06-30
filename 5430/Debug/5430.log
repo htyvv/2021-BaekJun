@@ -1,0 +1,4 @@
+﻿  5340.cpp
+C:\Users\허태영\source\repos\BaekJoon\5430\5340.cpp(24,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\허태영\source\repos\BaekJoon\5430\5340.cpp(34,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  5430.vcxproj -> C:\Users\허태영\source\repos\BaekJoon\Debug\5430.exe
