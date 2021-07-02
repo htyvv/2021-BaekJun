@@ -1,0 +1,5 @@
+﻿  hw4.cpp
+C:\Users\허태영\source\repos\BaekJoon\자료구조_과제_4\hw4.cpp(56,16): error C2995: 'void Stack<T>::Push(const T &)': 함수 템플릿이 이미 정의되었습니다.
+C:\Users\허태영\source\repos\BaekJoon\자료구조_과제_4\hw4.cpp(22): message : 'Stack<T>::Push' 선언을 참조하십시오.
+C:\Users\허태영\source\repos\BaekJoon\자료구조_과제_4\hw4.cpp(146,3): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\허태영\source\repos\BaekJoon\자료구조_과제_4\hw4.cpp(163,4): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.

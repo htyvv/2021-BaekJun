@@ -1,0 +1,7 @@
+﻿  hw6.cpp
+C:\Users\허태영\source\repos\BaekJoon\자료구조_과제6\hw6.cpp(194,19): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\허태영\source\repos\BaekJoon\자료구조_과제6\hw6.cpp(202,19): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\허태영\source\repos\BaekJoon\자료구조_과제6\hw6.cpp(229,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\허태영\source\repos\BaekJoon\자료구조_과제6\hw6.cpp(349,41): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\허태영\source\repos\BaekJoon\자료구조_과제6\hw6.cpp(45): warning C4172: 지역 변수 또는 임시: old의 주소를 반환하고 있습니다.
+  자료구조_과제6.vcxproj -> C:\Users\허태영\source\repos\BaekJoon\x64\Debug\자료구조_과제6.exe

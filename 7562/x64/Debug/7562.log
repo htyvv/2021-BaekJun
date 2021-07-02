@@ -1,0 +1,4 @@
+﻿  7562.cpp
+C:\Users\허태영\source\repos\BaekJoon\7562\7562.cpp(31,24): error C2660: 'bfs': 함수는 2개의 인수를 사용하지 않습니다.
+C:\Users\허태영\source\repos\BaekJoon\7562\7562.cpp(18,6): message : 'bfs' 선언을 참조하십시오.
+C:\Users\허태영\source\repos\BaekJoon\7562\7562.cpp(48,7): error C2065: 'cnt': 선언되지 않은 식별자입니다.
