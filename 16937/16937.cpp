@@ -9,16 +9,24 @@ vector<int> c;
 
 bool inRectangle(int idx1, int idx2) {
 	if (
+		// 원본 가로 세로
 		(r[idx1] + r[idx2] <= h && max(c[idx1], c[idx2]) <= w) ||
 		(c[idx1] + c[idx2] <= w && max(r[idx1], r[idx2]) <= h) ||
+		// 둘다 90도 회전 가로 세로
+		(r[idx1] + r[idx2] <= w && max(c[idx1], c[idx2]) <= h) ||
+		(c[idx1] + c[idx2] <= h && max(r[idx1], r[idx2]) <= w) ||
+		// 1만 회전 가로 세로
+		(r[idx2] + c[idx1] <= h && max(c[idx2], r[idx1]) <= w) ||
+		(r[idx1] + c[idx2] <= w && max(c[idx1], r[idx2]) <= h) ||
+		// 2만 회전 가로 세로
 		(r[idx1] + c[idx2] <= h && max(c[idx1], r[idx2]) <= w) ||
 		(c[idx1] + r[idx2] <= w && max(r[idx1], c[idx2]) <= h)
+
 		) return true;
 	return false;
 }
 
 int main() {
-
 
 	cin >> h >> w >> n;
 	for (int i = 0; i < n; i++) {
