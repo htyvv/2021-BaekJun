@@ -1,0 +1,3 @@
+﻿  16943.cpp
+C:\Users\허태영\source\repos\BaekJoon\16943\16943.cpp(39,14): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  16943.vcxproj -> C:\Users\허태영\source\repos\BaekJoon\x64\Debug\16943.exe
